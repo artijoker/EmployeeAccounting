@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Date>
+  <Departments>
+    <Department>
+      <Name>Математика</Name>
+    </Department>
+
+    <Department>
+      <Name>Экономика</Name>
+    </Department>
+
+    <Department>
+      <Name>Финансы</Name>
+    </Department>
+  </Departments>
+
+  <Positions>
+    <Position>
+      <Name>Младший н.с.</Name>
+      <Salary>8800</Salary>
+    </Position>
+
+    <Position>
+      <Name>Научный сотрудник</Name>
+      <Salary>9900</Salary>
+    </Position>
+
+    <Position>
+      <Name>Старший н.с.</Name>
+      <Salary>10100</Salary>
+    </Position>
+
+    <Position>
+      <Name>Ведущий н.с.</Name>
+      <Salary>11200</Salary>
+    </Position>
+  </Positions>
+
+  <Cabinets>
+    <Cabinet>
+      <Number>101</Number>
+      <Department>
+        <Name>Математика</Name>
+      </Department>
+    </Cabinet>
+
+    <Cabinet>
+      <Number>102</Number>
+      <Department>
+        <Name>Математика</Name>
+      </Department>
+    </Cabinet>
+
+    <Cabinet>
+      <Number>103</Number>
+      <Department>
+        <Name>Экономика</Name>
+      </Department>
+    </Cabinet>
+
+    <Cabinet>
+      <Number>104</Number>
+      <Department>
+        <Name>Экономика</Name>
+      </Department>
+    </Cabinet>
+
+    <Cabinet>
+      <Number>105</Number>
+      <Department>
+        <Name>Финансы</Name>
+      </Department>
+    </Cabinet>
+  </Cabinets>
+
+ <Employees>
+    <Employee>
+      <Name>Михаил</Name>
+      <Surname>Иванов</Surname>
+      <Patronymic>Петрович</Patronymic>
+
+      <Department>
+        <Name>Математика</Name>
+      </Department>
+
+      <Position>
+        <Name>Младший н.с.</Name>
+        <Salary>8800</Salary>
+      </Position>
+
+      <Cabinet>
+        <Number>101</Number>
+        <Department>
+          <Name>Математика</Name>
+        </Department>
+      </Cabinet>
+    </Employee>
+
+    <Employee>
+      <Name>Вадим</Name>
+      <Surname>Петренко</Surname>
+      <Patronymic>Кириллович</Patronymic>
+
+      <Department>
+        <Name>Экономика</Name>
+      </Department>
+
+      <Position>
+        <Name>Научный сотрудник</Name>
+        <Salary>9900</Salary>
+      </Position>
+
+      <Cabinet>
+        <Number>103</Number>
+        <Department>
+          <Name>Экономика</Name>
+        </Department>
+      </Cabinet>
+    </Employee>
+
+    <Employee>
+      <Name>Анна</Name>
+      <Surname>Львова</Surname>
+      <Patronymic>Викторовна</Patronymic>
+
+      <Department>
+        <Name>Финансы</Name>
+      </Department>
+
+      <Position>
+        <Name>Научный сотрудник</Name>
+        <Salary>9900</Salary>
+      </Position>
+
+      <Cabinet>
+        <Number>105</Number>
+        <Department>
+          <Name>Финансы</Name>
+        </Department>
+      </Cabinet>
+    </Employee>
+
+    <Employee>
+      <Name>Сергей</Name>
+      <Surname>Михеев</Surname>
+      <Patronymic>Владимирович</Patronymic>
+
+      <Department>
+        <Name>Экономика</Name>
+      </Department>
+
+      <Position>
+        <Name>Младший н.с.</Name>
+        <Salary>8800</Salary>
+      </Position>
+
+      <Cabinet>
+        <Number>104</Number>
+        <Department>
+          <Name>Экономика</Name>
+        </Department>
+      </Cabinet>
+    </Employee>
+
+    <Employee>
+      <Name>Анастасия</Name>
+      <Surname>Пушкина</Surname>
+      <Patronymic>Дмитриевна</Patronymic>
+
+      <Department>
+        <Name>Математика</Name>
+      </Department>
+
+      <Position>
+        <Name>Старший н.с.</Name>
+        <Salary>10100</Salary>
+      </Position>
+
+      <Cabinet>
+        <Number>102</Number>
+        <Department>
+          <Name>Математика</Name>
+        </Department>
+      </Cabinet>
+    </Employee>
+
+    <Employee>
+      <Name>Дмитрий</Name>
+      <Surname>Мясников</Surname>
+      <Patronymic>Олегович</Patronymic>
+
+      <Department>
+        <Name>Финансы</Name>
+      </Department>
+
+      <Position>
+        <Name>Ведущий н.с.</Name>
+        <Salary>11200</Salary>
+      </Position>
+
+      <Cabinet>
+        <Number>105</Number>
+        <Department>
+          <Name>Финансы</Name>
+        </Department>
+      </Cabinet>
+    </Employee>
+
+  </Employees>
+
+</Date>
